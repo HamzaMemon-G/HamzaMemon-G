@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @HamzaMemon-G
+- 👀 I’m interested in Gaming and Programming
+- 🌱 I’m currently learning C#
