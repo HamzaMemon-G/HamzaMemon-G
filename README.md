@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [RADBOT](https://github.com/HamzaMemon-G/Radbot)
 
-- 👨‍💻 All of my projects are available at [https://www.hamzamemon.me/](https://www.hamzamemon.me/)
+- 👨‍💻 My Portfolio [https://www.hamzamemon.me/](https://www.hamzamemon.me/)
 
 - 📫 How to reach me **hamzamemon7002.gmail.com**
 
