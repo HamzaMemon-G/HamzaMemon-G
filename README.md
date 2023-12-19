@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzamemon-g&label=Profile%20views&color=0e75b6&style=flat" alt="hamzamemon-g" /> </p>
 
-- 🔭 I’m currently working on [RADBOT](https://github.com/HamzaMemon-G/Radbot)
+- 🔭 I’m currently working on [Odyssey VTC Projects](https://odysseyvtc.com/)
 
 - 👨‍💻 My Portfolio [https://www.hamzamemon.me/](https://www.hamzamemon.me/)
 
