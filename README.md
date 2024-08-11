@@ -17,4 +17,4 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/790221657112969256?idleMessage=No%20Infos%20for%20Activity%20atm)](https://discord.com/users/790221657112969256)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzamemon-g&show_icons=true&locale=en" alt="hamzamemon-g" /></p>
+[](https://github-readme-stats.vercel.app/api?username=HamzaMemon-G)](https://github.com/HamzaMemon-G/github-readme-stats)
