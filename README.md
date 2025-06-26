@@ -7,7 +7,7 @@
 
 - 👨‍💻 My Portfolio [https://www.hamzamemon.me/](https://www.hamzamemon.me/)
 
-- 📫 How to reach me **hamzamemon7002.gmail.com**
+- 📫 How to reach me **hamzamemon7002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
