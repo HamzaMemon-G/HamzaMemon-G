@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🌐 My Portfolio: [hamzamemon.me](https://www.hamzamemon.me/)
+- 🌐 My Portfolio: [hamzamemon.me](https://hamzamemon.me/)
 - 📫 Reach me at: **hamzamemon7002@gmail.com**
 
 ---
