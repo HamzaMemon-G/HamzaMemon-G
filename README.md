@@ -10,7 +10,7 @@ I build game systems, intelligent automation, and full-stack experiences.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza_Memon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzamemon-/)
 [![Email](https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@hamzamemon.me)
 
-<sub>Mumbai, India · Also known as <strong>RADAR_TM</strong></sub>
+<sub>Mumbai, India · Also known as <strong>RADAR</strong></sub>
 
 </div>
 
