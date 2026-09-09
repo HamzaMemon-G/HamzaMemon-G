@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Hamza Memon — Game and Software Developer</title>
+  <desc id="desc">Building worlds and what comes next through game systems, automation, and full-stack software.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#30363d" stroke-width="1" opacity=".45"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="18" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+  <path d="M0 254C240 180 430 314 690 232S1000 158 1200 210V320H0Z" fill="#58a6ff" opacity=".06"/>
+  <circle cx="1090" cy="68" r="118" fill="#f78166" opacity=".06"/>
+  <circle cx="1090" cy="68" r="72" fill="none" stroke="#f78166" stroke-width="2" opacity=".35"/>
+  <circle cx="1090" cy="68" r="7" fill="#f78166"/>
+  <path d="M1000 68h180M1090-22v180" stroke="#f78166" stroke-width="1" opacity=".28"/>
+  <rect x="64" y="54" width="42" height="5" rx="2.5" fill="#f78166"/>
+  <text x="64" y="113" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" letter-spacing="1">BUILDING WORLDS.</text>
+  <text x="64" y="165" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" letter-spacing="1">AND WHAT'S NEXT.</text>
+  <text x="66" y="214" fill="#58a6ff" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3">GAME SYSTEMS  /  AUTOMATION  /  FULL-STACK</text>
+  <text x="66" y="266" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="18">HAMZA MEMON</text>
+  <text x="217" y="266" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="18">·</text>
+  <text x="237" y="266" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="18">RADAR</text>
+</svg>
